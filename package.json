@@ -2,9 +2,9 @@
   "name": "helloapp",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "hello1.json",
+  "main": "hello1.js",
   "scripts": {
-  "start": "node hello1.json"
+  "start": "node hello1.js"
 },
   "repository": {
   "type": "git",
