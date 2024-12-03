@@ -2,13 +2,13 @@
   "name": "helloapp",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "hello_app.js",
+  "main": "hello1.json",
   "scripts": {
-  "start": "node hello_app.js"
+  "start": "node hello1.json"
 },
   "repository": {
   "type": "git",
-  "url": ""
+  "url": "https://bt-cs20-123-78cc60885005.herokuapp.com/"
 },
   "author": "",
   "license": "ISC",
